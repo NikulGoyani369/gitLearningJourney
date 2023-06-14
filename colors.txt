@@ -9,3 +9,4 @@ Green is a secondary color.
 Purple is a secondary color.
 Limes are green.
 Res is red.
+Lemons are yellow.
