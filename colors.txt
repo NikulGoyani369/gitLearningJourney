@@ -3,3 +3,6 @@ Purple is a cold color.
 Green is a warm color. 
 Yellow is a warm color.
 Red is a warm color.
+
+Green is a secondary color.
+Purple is a secondary color.
