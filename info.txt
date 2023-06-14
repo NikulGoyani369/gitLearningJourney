@@ -1,1 +1,5 @@
+I learn git and github, so I will be pushing my code to github.
+
+
 These are the Primary color
+I have a few more colors to add to the list, but I will do that later.
