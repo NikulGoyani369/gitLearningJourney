@@ -1,1 +1,2 @@
-Blue is a cold color
+Blue is a cold color.
+Purple is a cold color.
