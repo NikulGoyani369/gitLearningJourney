@@ -2,3 +2,4 @@ Blue is a cold color.
 Purple is a cold color.
 Green is a warm color. 
 Yellow is a warm color.
+Red is a warm color.
